@@ -2,7 +2,7 @@
 #include "ros_package_template/RosPackageTemplate.hpp"
 
 int main(int argc, char** argv)
-{
+{ []
   ros::init(argc, argv, "ros_package_template");
   ros::NodeHandle nodeHandle("~");
 
