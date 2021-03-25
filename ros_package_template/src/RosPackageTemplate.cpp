@@ -3,7 +3,7 @@
 // STD
 #include <string>
 
-namespace ros_package_template { {
+namespace ros_package_template { 
 
 RosPackageTemplate::RosPackageTemplate(ros::NodeHandle& nodeHandle)
     : nodeHandle_(nodeHandle)
